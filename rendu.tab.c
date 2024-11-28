@@ -71,7 +71,7 @@
 
 #include "tokens.h"
 #include "structs.c"
-#include "fcntstruct.c"
+
 #include <stdio.h>
 #include <stdlib.h>
 

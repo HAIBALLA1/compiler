@@ -1,0 +1,5 @@
+# ninja log v6
+0	64	1732797844479793920	CMakeFiles/compiler.dir/Affichage.c.o	b7d186fc01c33c6f
+1	64	1732797844483793793	CMakeFiles/compiler.dir/y.tab.c.o	2d2320415c87e8ef
+1	69	1732797844483793793	CMakeFiles/compiler.dir/structs.c.o	24ea080654702b7b
+0	110	1732797844479793920	CMakeFiles/compiler.dir/lex.yy.c.o	e926767054cb155b
